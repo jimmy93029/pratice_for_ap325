@@ -1,0 +1,5 @@
+﻿  低地距離.cpp
+C:\C++\算法筆記\ap325\分治\分治\低地距離.cpp(52,22): warning C4018: '<': signed/unsigned 不相符
+C:\C++\算法筆記\ap325\分治\分治\低地距離.cpp(54,18): warning C4018: '<': signed/unsigned 不相符
+C:\C++\算法筆記\ap325\分治\分治\低地距離.cpp(63,14): warning C4018: '<': signed/unsigned 不相符
+  分治.vcxproj -> C:\C++\算法筆記\ap325\分治\x64\Debug\分治.exe

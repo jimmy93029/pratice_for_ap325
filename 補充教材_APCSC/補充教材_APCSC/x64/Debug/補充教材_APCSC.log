@@ -1,0 +1,11 @@
+﻿  O_Matching_Atcoder2.cpp
+C:\C++\算法筆記\ap325\補充教材_APCSC\補充教材_APCSC\O_Matching_Atcoder2.cpp(20,32): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\C++\算法筆記\ap325\補充教材_APCSC\補充教材_APCSC\O_Matching_Atcoder2.cpp(30,40): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\C++\算法筆記\ap325\補充教材_APCSC\補充教材_APCSC\O_Matching_Atcoder2.cpp(34,40): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\C++\算法筆記\ap325\補充教材_APCSC\補充教材_APCSC\O_Matching_Atcoder2.cpp(36,37): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\C++\算法筆記\ap325\補充教材_APCSC\補充教材_APCSC\O_Matching_Atcoder2.cpp(37,24): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\C++\算法筆記\ap325\補充教材_APCSC\補充教材_APCSC\O_Matching_Atcoder2.cpp(38,91): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\C++\算法筆記\ap325\補充教材_APCSC\補充教材_APCSC\O_Matching_Atcoder2.cpp(43,40): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\C++\算法筆記\ap325\補充教材_APCSC\補充教材_APCSC\O_Matching_Atcoder2.cpp(49,32): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\C++\算法筆記\ap325\補充教材_APCSC\補充教材_APCSC\O_Matching_Atcoder2.cpp(55,1): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+  補充教材_APCSC.vcxproj -> C:\C++\算法筆記\ap325\補充教材_APCSC\x64\Debug\補充教材_APCSC.exe

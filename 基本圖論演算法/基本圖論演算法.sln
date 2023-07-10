@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "基本圖論演算法", "基本圖論演算法\基本圖論演算法.vcxproj", "{683E5253-6D0C-4F5D-8A65-D94660E271BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683E5253-6D0C-4F5D-8A65-D94660E271BF}.Debug|x64.ActiveCfg = Debug|x64
+		{683E5253-6D0C-4F5D-8A65-D94660E271BF}.Debug|x64.Build.0 = Debug|x64
+		{683E5253-6D0C-4F5D-8A65-D94660E271BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{683E5253-6D0C-4F5D-8A65-D94660E271BF}.Debug|x86.Build.0 = Debug|Win32
+		{683E5253-6D0C-4F5D-8A65-D94660E271BF}.Release|x64.ActiveCfg = Release|x64
+		{683E5253-6D0C-4F5D-8A65-D94660E271BF}.Release|x64.Build.0 = Release|x64
+		{683E5253-6D0C-4F5D-8A65-D94660E271BF}.Release|x86.ActiveCfg = Release|Win32
+		{683E5253-6D0C-4F5D-8A65-D94660E271BF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1E3A042-0E53-4DA8-88CB-8DE75787A43E}
+	EndGlobalSection
+EndGlobal
