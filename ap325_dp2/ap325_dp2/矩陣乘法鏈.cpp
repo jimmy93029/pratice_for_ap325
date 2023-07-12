@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 #include <algorithm>
 #define ll long long
@@ -36,18 +36,3 @@ ll memo(ll i, ll j)
     }
     return dp[i][j] = val;
 }
-
-/*
-void solve()
-{
-    ll j;
-    for (ll len = 2; len <= n; len++) {
-        for (ll i = 0; i <= n - len; i++) {
-            j = i + len;
-            for (ll k = i + 1; k < j; k++) {
-                dp[]
-            }
-        }
-    }
-}
-*/
