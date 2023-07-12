@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 #include <algorithm>
 #define ll long long
@@ -38,4 +38,3 @@ int main()
 
     cout << dp[n - 1];
 }
-*/
