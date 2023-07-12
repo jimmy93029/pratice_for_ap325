@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 #include <algorithm>
 #include <deque>
@@ -40,4 +40,3 @@ void push(ll i)
     if (minq.front() <= i - 2 * k - 1)
         minq.pop_front();
 }
-*/
