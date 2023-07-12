@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 #include <algorithm>
 #define ll long long
@@ -49,6 +49,5 @@ int main()
     if (check)
         ans++;
 
-    cout << ans - 1;  // 3x. 578 ªº case: ­n¥[¦^ 578 ³o¤@¶µ (¦ý¤£¤@©w¨C¦¸³£­n¥[¦^¨Ó )¡A¦A¦©°£ 000 ³o¤@¶µ
+    cout << ans - 1;  // 3x. 578 çš„ case: è¦åŠ å›ž 578 é€™ä¸€é … (ä½†ä¸ä¸€å®šæ¯æ¬¡éƒ½è¦åŠ å›žä¾† )ï¼Œå†æ‰£é™¤ 000 é€™ä¸€é …
 }
-*/
